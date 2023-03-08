@@ -1,6 +1,6 @@
 # Bem-Vindo!  ✋😄
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro2704&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro2704&theme=transparent&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ![Pietro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pietro2704&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
 <!--![Pietro's Github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro2704&layout=compact&langs_count=16&theme=transparent)-->
 
