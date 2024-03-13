@@ -1,11 +1,15 @@
 # Bem-Vindo!  ✋😄
+
 <!--
 ![Pietro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pietro2704&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro2704&theme=transparent&hide_progress=true&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--![Pietro's Github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro2704&layout=compact&langs_count=16&theme=transparent)-->
+<!--
+![Pietro's Github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro2704&layout=compact&langs_count=16&theme=transparent)
+-->
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro2704&theme=transparent&hide_progress=true&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxHDqvjdfjTZBmLTPZtSCbTZtKPSHKhbgqPDHKGtJwMCPpBrbTjtJpHlKHfzStLGcVMxGV)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-rosolia-557b04224/)
