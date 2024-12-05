@@ -16,8 +16,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/pietro.rosolia)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pietro_2704)
 
-
-![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pietro2704&label=Profile%20views&color=0e75b6&style=flat" alt="Pietro" /> </p>
 
 
 
