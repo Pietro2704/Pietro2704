@@ -21,7 +21,7 @@
 
 
 
-
+<img src="https://raw.githubusercontent.com/pietro2704/pietro2704/output/snake.svg" alt="Snake animation" />
 
 
 
