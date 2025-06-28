@@ -1,7 +1,5 @@
 # Bem-Vindo!  ✋😄
 
-## Olá meu nome é Pietro
-
 ![Pietro's Github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro2704&layout=compact&langs_count=16&theme=transparent)
 
 
