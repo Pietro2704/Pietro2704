@@ -46,7 +46,7 @@ Além de programar, também **ensino programação**, ajudando outras pessoas a 
 
 **Front-end**
 
-[![Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 
 **Dados & Infraestrutura**
 
